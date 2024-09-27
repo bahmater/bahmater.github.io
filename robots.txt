@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bahmater.github.io/sitemap.bahmater.gz
+Sitemap: https://bahmater.github.io/app/sitemap.bahmater.gz
+Sitemap: https://bahmater.github.io/assets/sitemap.bahmater.gz
+Sitemap: https://bahmater.github.io/css/sitemap.bahmater.gz
+Sitemap: https://bahmater.github.io/data/sitemap.bahmater.gz
+Sitemap: https://bahmater.github.io/includes/sitemap.bahmater.gz
+Sitemap: https://bahmater.github.io/item/sitemap.bahmater.gz
+Sitemap: https://bahmater.github.io/src/sitemap.bahmater.gz
